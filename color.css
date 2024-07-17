@@ -13,3 +13,30 @@ nav{
     /* background-color: #60c5e1; */
     color:  #60c5e1;
 }
+.backgroundColor{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 150px;
+    width: 650px;
+    background-color: black;
+    color: whitesmoke;
+    margin-top: 8px;
+}
+span{
+    color: rgb(46, 165, 211);
+}
+p{
+    text-transform: uppercase;;
+}
+h3{
+    display: flex;
+    color: gray;
+}
+button{
+    font-size: xx-large;
+    border-radius: 3px;
+}
